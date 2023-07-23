@@ -1,0 +1,6 @@
+Start time: 14:11:09 on Mar 17,2023
+qverilog test.sv 
+** Error: (qverilog-13069) test.sv(2): near "uvm_test": syntax error, unexpected IDENTIFIER.
+** Error: test.sv(2): Error in class extension specification.
+End time: 14:11:09 on Mar 17,2023, Elapsed time: 0:00:00
+Errors: 2, Warnings: 0
